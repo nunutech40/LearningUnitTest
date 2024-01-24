@@ -26,6 +26,8 @@
 		A0A0E2382B5F65870058130D /* SetParameterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A0E2372B5F65870058130D /* SetParameterTest.swift */; };
 		A0A0E23A2B5F6D1E0058130D /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A0E2392B5F6D1E0058130D /* Person.swift */; };
 		A0A0E23C2B5F6DF10058130D /* PersonTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A0E23B2B5F6DF10058130D /* PersonTest.swift */; };
+		A0A0E2402B6102E40058130D /* IsValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A0E23F2B6102E40058130D /* IsValidPalindrome.swift */; };
+		A0A0E2422B6108030058130D /* GetStringFromIndexTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A0E2412B6108030058130D /* GetStringFromIndexTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +63,8 @@
 		A0A0E2372B5F65870058130D /* SetParameterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetParameterTest.swift; sourceTree = "<group>"; };
 		A0A0E2392B5F6D1E0058130D /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		A0A0E23B2B5F6DF10058130D /* PersonTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonTest.swift; sourceTree = "<group>"; };
+		A0A0E23F2B6102E40058130D /* IsValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsValidPalindrome.swift; sourceTree = "<group>"; };
+		A0A0E2412B6108030058130D /* GetStringFromIndexTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStringFromIndexTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,7 @@
 				A0A0E2312B5F54E40058130D /* FuncAverage5MatKul.swift */,
 				A0A0E2352B5F637C0058130D /* SetParameter.swift */,
 				A0A0E2392B5F6D1E0058130D /* Person.swift */,
+				A0A0E23F2B6102E40058130D /* IsValidPalindrome.swift */,
 			);
 			path = PlaygroundAja;
 			sourceTree = "<group>";
@@ -129,6 +134,7 @@
 				A0A0E2332B5F55E90058130D /* FuncAverage5MatkulTest.swift */,
 				A0A0E2372B5F65870058130D /* SetParameterTest.swift */,
 				A0A0E23B2B5F6DF10058130D /* PersonTest.swift */,
+				A0A0E2412B6108030058130D /* GetStringFromIndexTest.swift */,
 			);
 			path = PlaygroundAjaTests;
 			sourceTree = "<group>";
@@ -239,6 +245,7 @@
 				A0A0E2362B5F637C0058130D /* SetParameter.swift in Sources */,
 				A042E4E62B4A80F50084A3DC /* AppDelegate.swift in Sources */,
 				A0A0E22A2B5E406F0058130D /* FullName.swift in Sources */,
+				A0A0E2402B6102E40058130D /* IsValidPalindrome.swift in Sources */,
 				A0A0E2322B5F54E40058130D /* FuncAverage5MatKul.swift in Sources */,
 				A0A0E23A2B5F6D1E0058130D /* Person.swift in Sources */,
 				A042E4E82B4A80F50084A3DC /* SceneDelegate.swift in Sources */,
@@ -252,6 +259,7 @@
 			files = (
 				A0A0E2382B5F65870058130D /* SetParameterTest.swift in Sources */,
 				A0A0E21B2B5A6C7D0058130D /* PlaygroundAjaTests.swift in Sources */,
+				A0A0E2422B6108030058130D /* GetStringFromIndexTest.swift in Sources */,
 				A0A0E22C2B5E41730058130D /* FullNameTest.swift in Sources */,
 				A0A0E2342B5F55E90058130D /* FuncAverage5MatkulTest.swift in Sources */,
 				A0A0E23C2B5F6DF10058130D /* PersonTest.swift in Sources */,
