@@ -70,7 +70,6 @@ func isPalindrome3(_ s: String) -> Bool {
 
 func isPalindrome(_ s: String) -> Bool {
     let s = Array(s.lowercased().filter { $0.isLetter || $0.isNumber })
-    print("cek dataaa s: \(s)")
     
     var left = 0
     var right = s.count - 1
